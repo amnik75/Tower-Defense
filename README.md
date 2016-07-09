@@ -8,8 +8,8 @@ Every level enemies become stronger but you can upgrade your castles.
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/javafx-dev/javafx-dev.github.io/blob/master/img/tetris-screen1.jpg?raw=true" alt="TowerdefenseJFX Screen Shoot"/>
-  <img src="https://github.com/javafx-dev/javafx-dev.github.io/blob/master/img/tetris-screen2.jpg?raw=true" alt="TowerdefensesJFX Screen Shoot 1"/>
+  <img src="https://github.com/amnik75/hello-world/blob/master/screen1.PNG?raw=true" alt="TetrisJFX Screen Shoot"/>
+  <img src="https://github.com/amnik75/hello-world/blob/master/screen2.PNG?raw=true" alt="TetrisJFX Screen Shoot 1"/> Shoot 1"/>
 </p>
 
 Have fun if you can!
