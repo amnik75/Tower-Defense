@@ -8,7 +8,7 @@ Every level enemies become stronger but you can upgrade your castles.
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/amnik75/hello-world/blob/master/screen1.PNG?raw=true"/>
+  <img src="https://github.com/amnik75/Tower-Defense/blob/master/screen1.PNG?raw=true"/>
   <img src="https://github.com/amnik75/hello-world/blob/master/screen2.PNG?raw=true"/>
 </p>
 
